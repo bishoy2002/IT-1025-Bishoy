@@ -20,8 +20,13 @@ DIMM transfers 64 bits at a time while SIMM transfers 32 bits of data at a time 
 ### IEEE - Ethically Aligned Design
 
 ## Data Representation
-### Decimal, Binary and Hexadecimal
-### Hexadecimal Color Representation
+Base-ten is decimal, Base-two is binary, base-sixteen is hexadecimal.
+(https://user-images.githubusercontent.com/80690065/111682008-3ffc3880-87fa-11eb-8e25-07fe58878a84.jpg BINARY TO DECIMAL
+(https://user-images.githubusercontent.com/80690065/111682014-41c5fc00-87fa-11eb-9ebf-9dfa82e968c9.jpg DECIMAL TO BINARY
 
-## Conclusion
+
+### Hexadecimal Color Representation
+#abb0ff is going to be a pale blue color.
+The color is going to be problamatic for some people who have a low vision impairment or a color deficiencies. An option fix it is to use larger fonts with dark backgrounds. Also avoiding picture bases text and using text whenever possible.
+ ## Conclusion
 Include your conclusion here...
