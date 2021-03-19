@@ -15,7 +15,9 @@ DIMM transfers 64 bits at a time while SIMM transfers 32 bits of data at a time 
 #### Solid State vs. Hard Drives
 #### Random Access Memory
 ### ALU and the Control Unit
+The Arithmetic logic unit or ALU is what preforms all the mathematical operations inside the CPU. ALU contains two inputs known as input A and input B. The control unit recieves mathematical operations from RAM then tells the ALU what to preform.
 ### CPU, Input & Output
+In a supermakrket input, output, and cpu is used in multiple ways. The input cointains things like the keyboard behind a register, the credit card reader, and the scales build into the register. The output contains things like the cashiers monitors, automatic doors, speakers and more! The CPU carries out the instructions by performing the basic arithmetic logic which in a grocery store can be adding up the total amount of money for your groceries.
 ### Logic Gates 
 ### IEEE - Ethically Aligned Design
 
