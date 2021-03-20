@@ -2,7 +2,7 @@
 Bishoy Matta
 3/17/21
 ## Executive Summary 
-
+   During this lab, I will learn about different hardware components. I will be able to explain the purpose of each and how they work together. I will also learn about binary numbers and converting into decimal, binary, and hexadecimal. I will be able to effectively present data representations.
 
 ## Hardware
   The role of a CPU, or a central proccessing unit is responsible for carrying out the commands send to it by the software and returns results to be acted on. The CPU is also known as the brains of a device! The components of a CPU include the arithmetic logic unit or the ALU.
@@ -19,8 +19,9 @@ The Arithmetic logic unit or ALU is what preforms all the mathematical operation
 ### CPU, Input & Output
 In a supermakrket input, output, and cpu is used in multiple ways. The input cointains things like the keyboard behind a register, the credit card reader, and the scales build into the register. The output contains things like the cashiers monitors, automatic doors, speakers and more! The CPU carries out the instructions by performing the basic arithmetic logic which in a grocery store can be adding up the total amount of money for your groceries.
 ### Logic Gates 
+A truth table is a mathematical table used in logic. The purpose of a truth table is to show the truth value for one or more compound. A truth table is relevant in computer processing because it shows the output uou get for every possible input.
 ### IEEE - Ethically Aligned Design
-
+The purpose of IEEE is advance innovation and technological excellence to benifit humanity. Having ethics is very important in device design because it provides the consumer with clean and honest products. 
 ## Data Representation
 Base-ten is decimal, Base-two is binary, base-sixteen is hexadecimal.
 (https://user-images.githubusercontent.com/80690065/111682008-3ffc3880-87fa-11eb-8e25-07fe58878a84.jpg BINARY TO DECIMAL
@@ -31,4 +32,4 @@ Base-ten is decimal, Base-two is binary, base-sixteen is hexadecimal.
 #abb0ff is going to be a pale blue color.
 The color is going to be problamatic for some people who have a low vision impairment or a color deficiencies. An option fix it is to use larger fonts with dark backgrounds. Also avoiding picture bases text and using text whenever possible.
  ## Conclusion
-Include your conclusion here...
+     After the completion of this lab, I got a good understanding of different hardware components, data representation, and converting decimal, binary, and hexadecimal effectively and efficiently.
