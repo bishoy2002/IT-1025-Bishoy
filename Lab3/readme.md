@@ -1,16 +1,19 @@
 Bishoy Matta
-3/19/21
+3/20/21
 
 ## Executive Summary 
-Include your executive summary here...
+During this lab, I will be exploring different types of software and the purpose of each. 
 
 ## Software
+   Software is the set of instructions that tells the hardware what to do. Software can be divided into two categories: operating systems and application software. Operating systems manage the hardware and create inerface between the hardware and the user. Application software performs specific tasks such as word processing, accounting, database management, video games, and/or browsing the web. An example of utility is a anti-virus software. An example of operating system software is windows or apple macOS. 
+   
 ### Types of Software
 ### ERP
-
+The purpose of a Enterprise Resource Planning (ERP) system is to bring together an entire organization within one program. An example of an ERP software is SAP, Oracle, and Microsoft.
 ## Virtualization
+  Vitualization is the process of using a software to simulate a computer or other physical devices.
 ### Problems Solved by Virtualization
-### Role of Hypervisor
+Vitualization can reduce electricity use and the cool time for physical servers therefore reducing costs. The hypervisor manages the virtualized servers.
 ### Option A: Compare and Contrast Virtualization (delete if selection option B)
 ### Option A: How a Network Administrator Could Move from Cloud Computing to Virtualization (delete if selecting option B)
 
