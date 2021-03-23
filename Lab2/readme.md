@@ -16,8 +16,9 @@ The hard drive is a device with internal moving parts, while SSD stores data in 
 #### Random Access Memory
 Increasing the RAM on a computer makes it run faster because when the RAM is too low, some of the data is kept on the slower hard drives. Instead of data going from RAM to the CPU, it has to do more work by going to the slower hard drives therefore slowing down your computer. The term 64 or 32 bit data path refers to the number of bits of data that are transferred in one clock cycle. DIMM transfers 64 bits of data at a time while SIMM transfers 32 bits at a time making DIMM faster because they can transfer double the bits at one time.
 ### ALU and the Control Unit 
+The control unit recieves a mathematical operation from RAM as an instruction then tells the ALU what operation to perform. The ALU then solves it and output the answer.
 
-
+#### CPU, Input & Output 
 In a supermakrket input, output, and cpu is used in multiple ways. The input cointains things like the keyboard behind a register, the credit card reader, and the scales build into the register. The output contains things like the cashiers monitors, automatic doors, speakers and more! The CPU carries out the instructions by performing the basic arithmetic logic which in a grocery store can be adding up the total amount of money for your groceries.
 ### Logic Gates 
 A truth table is a mathematical table used in logic. The purpose of a truth table is to show the truth value for one or more compound. A truth table is relevant in computer processing because it shows the output you get for every possible input.
