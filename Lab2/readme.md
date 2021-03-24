@@ -8,11 +8,9 @@ Bishoy Matta
   The role of a CPU, or a central proccessing unit is responsible for carrying out the commands send to it by the software and returns results to be acted on. The CPU is also known as the brains of a device! The components of a CPU include the arithmetic logic unit, the control unit, and the memory unit. The ALU is whats responsible for preforming mathematical operations. The control unit leads operations to the processor. The memory unit stores data and infromation.
 ### Hard Drives and Memory
 The hard drive is a device with internal moving parts, while SSD stores data in memory chips. SSD has greater stability over their disk counterparts.
-
-
-
-#### Latency and Transfer Rates
 #### Solid State vs. Hard Drives
+Solid state drives and hard disk drives are similar, but they store data differently. A hard drive uses small mechanical moving parts to seek out data on a spinning platter. The SSD uses flash memory to store and access data. The SSD is faster and harder to break, but they do come with a higher price and hold less data. The hard drive is slower but could hold more data and is more cost efficient.
+
 #### Random Access Memory
 Increasing the RAM on a computer makes it run faster because when the RAM is too low, some of the data is kept on the slower hard drives. Instead of data going from RAM to the CPU, it has to do more work by going to the slower hard drives therefore slowing down your computer. The term 64 or 32 bit data path refers to the number of bits of data that are transferred in one clock cycle. DIMM transfers 64 bits of data at a time while SIMM transfers 32 bits at a time making DIMM faster because they can transfer double the bits at one time.
 ### ALU and the Control Unit 
@@ -34,4 +32,4 @@ Base-ten is decimal, Base-two is binary, base-sixteen is hexadecimal.
 #abb0ff is going to be a pale blue color.
 The color is going to be problamatic for some people who have a low vision impairment or a color deficiencies. An option fix it is to use larger fonts with dark backgrounds. Also avoiding picture bases text and using text whenever possible.
  ## Conclusion
-     After the completion of this lab, I got a good understanding of different hardware components, data representation, and converting decimal, binary, and hexadecimal effectively and efficiently.
+     After the completion of this lab, I got a good understanding of different hardware components, data representation, and converting decimal, binary, and hexadecimal effectively and efficiently. Even though i did struggle with the hexadecimal conversion, I practiced and I am more familiar with it now that originally.
