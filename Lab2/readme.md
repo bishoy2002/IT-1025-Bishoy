@@ -32,4 +32,5 @@ Base-ten is decimal, Base-two is binary, base-sixteen is hexadecimal.
 #abb0ff is going to be a pale blue color.
 The color is going to be problamatic for some people who have a low vision impairment or a color deficiencies. An option fix it is to use larger fonts with dark backgrounds. Also avoiding picture bases text and using text whenever possible.
  ## Conclusion
-     After the completion of this lab, I got a good understanding of different hardware components, data representation, and converting decimal, binary, and hexadecimal effectively and efficiently. Even though i did struggle with the hexadecimal conversion, I practiced and I am more familiar with it now that originally.
+ 
+     After the completion of this lab, I got a good understanding of different hardware components, data representation, and converting decimal, binary, and hexadecimal effectively and efficiently. Even though i did struggle with the hexadecimal conversion, I practiced and I am more familiar with it now that originally. Understanding binary conversions is very important in computer programming because it allows us to communicate with computers and give them specific instructions to perform.
