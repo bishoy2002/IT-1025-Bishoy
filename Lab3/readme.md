@@ -2,7 +2,7 @@ Bishoy Matta
 3/20/21
 
 ## Executive Summary 
-During this lab, I will be exploring different types of software and the purpose of each.  
+During this lab, I will be exploring different types of software and the purpose of each. I will be introduced to virtualization and the challenges that are solved by using vriualization. I will also be introduced to python and writing code using python. I will also be exploring different carre options that are available after getting my degree. 
 
 ## Software
    Software is the set of instructions that tells the hardware what to do. Software can be divided into two categories: operating systems and application software. Operating systems manage the hardware and create inerface between the hardware and the user. Application software performs specific tasks such as word processing, accounting, database management, video games, and/or browsing the web. An example of utility is a anti-virus software. An example of operating system software is windows or apple macOS.
