@@ -1,3 +1,4 @@
+
 Bishoy Matta
 3/20/21
 
@@ -23,10 +24,12 @@ Psuedo-code nature of python allows you to concentrate on how to solve a problem
 ### Interpreted vs. Compiled Language
 A compiled language is coded by a human then the code runs into assembly languages so that the program runs and returns a desired outcome. An interperted languae is compiled in a real time when its run and is more simple to use.
 ## Career Exploration
-
-### College Central
+![Screen Shot 2021-03-29 at 7 47 08 PM](https://user-images.githubusercontent.com/80690065/112913972-e1bc3900-90c8-11eb-8243-42c6bfdcab44.png)
+I have found that the job growth for IT related fields is on the rise.
 ### Bureau of Labor Statistics
+
 ### Certifications
+
 ### Certificates and Degrees
 ### Co-ops / Internships
 ### Industry Associations / Student Organizations
