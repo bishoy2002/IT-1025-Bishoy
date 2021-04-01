@@ -27,13 +27,11 @@ A compiled language is coded by a human then the code runs into assembly languag
 ![Screen Shot 2021-03-29 at 7 47 08 PM](https://user-images.githubusercontent.com/80690065/112913972-e1bc3900-90c8-11eb-8243-42c6bfdcab44.png)
 I have found that the job growth for IT related fields is on the rise.
 ### Bureau of Labor Statistics
-
-### Certifications
-
-### Certificates and Degrees
+ Careers in the IT field are on a steady rise faster than the average of other careers. Web Developers and Digital Designers make $73,760 per year and usually need an associates degree. For web developers and digital designers, there are 174,300 with a eight percent growth rate. Jobs related to the IT field are expected to grow with the rise of technology in day-to-day life. 
 ### Co-ops / Internships
+
 ### Industry Associations / Student Organizations
 
 ## Conclusion
 
-Include your professional conclusion here...
+During this lab, I build a better understanding of applications, operating system, and utility. I also was introduced to python and the importance of vitualization and the problems that it solves. I also explored careers in the IT field and infromation on those careers and seeing which ones im most passionate about. 
