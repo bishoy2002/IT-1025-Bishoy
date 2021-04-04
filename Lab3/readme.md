@@ -15,8 +15,9 @@ The purpose of a Enterprise Resource Planning (ERP) system is to bring together 
 ### Problems Solved by Virtualization
 Vitualization can reduce electricity use and the cool time for physical servers therefore reducing costs. The hypervisor manages the virtualized servers.
 ### Option A: Compare and Contrast Virtualization (delete if selection option B)
-
-
+ Cloud is an environment that collects data and hosts services over the internet. Virtualization on the other hand is a technology that allows you to create several simulated environments or resources from a single, physical hardware system, and clouds are IT environment that shares resources across a network.
+ 
+ A network administrator could move from virtualization by identifying which kind of program is being developed and what its meant to perform. The network administrator then could switch it to meet the customers needs.
 ## Python
    Python is a easy to learn programming language that allows programmers to code and create simple or complex programs.
 ### Pseudo-Code Nature of Python
@@ -28,10 +29,13 @@ A compiled language is coded by a human then the code runs into assembly languag
 I have found that the job growth for IT related fields is on the rise.
 ### Bureau of Labor Statistics
  Careers in the IT field are on a steady rise faster than the average of other careers. Web Developers and Digital Designers make $73,760 per year and usually need an associates degree. For web developers and digital designers, there are 174,300 with a eight percent growth rate. Jobs related to the IT field are expected to grow with the rise of technology in day-to-day life. 
-### Co-ops / Internships
-
+ ### Certifications
+ A certification that i'm interested in is the Cisco CCNA Certification and Training. Getting certified and trained in CCNA will help me start my career in IT and will cover a wide variety of IT fundamentals. To get certified, you have to complete one exam that will cover different IT topics. This certificate seems like a great option for me because it will introduce me to many new jobs and trainings.
+  ### Certificates
+  A Tri-C certifications that im intrested in is 
+  ### Co-ops / Internships
+ Internships and co-op programs that are paid and non-paid are very important when it comes to getting work experience while im taking academic studies. What I currently need to do is maintain passing grades and not to fall behind on my work. I can then enroll into one of the internship and/or co-ops that Tri-C has to offer on the tri-c.edu website. Other benefits are also present that are associated with me getting an internship. It will increase my chances of getting a job later on the road and make me a more qualified candidate.### Industry Associations / Student Organizations
 ### Industry Associations / Student Organizations
-
-## Conclusion
-
+The Cybersecurity Club seems very interesting and beneficial to me. The topic of cybersecurity is important and I think everyone should be educated on the issues that can arise from security flaws. A student organization like this one would be very beneficial for me, because it will help me down the road in my future career in the I.T. field.
+### conclusion
 During this lab, I build a better understanding of applications, operating system, and utility. I also was introduced to python and the importance of vitualization and the problems that it solves. I also explored careers in the IT field and infromation on those careers and seeing which ones im most passionate about. 
