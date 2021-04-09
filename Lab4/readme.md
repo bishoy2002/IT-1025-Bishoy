@@ -11,7 +11,7 @@ Variables are used to store data, they take up memory space according to the typ
 ### Assignment statement:
 A assignment statement places a value on a noun. An example of a assignment statement is X = 1000. It means that the value 1000 is being assigned to the variable, which in this example is X.
 ### Function:
-
+A function in python is a block of code that preforms some tasks and that can be called by a specific name that the programmer chooses. To make a function, you would have to use the "def" code. An example of a function is: def example(text). Also its useful to know thst you have to use "return" to get out of the function.
 ### Three data types:
 
 ## Graphics
