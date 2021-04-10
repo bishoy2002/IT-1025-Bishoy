@@ -2,7 +2,7 @@
 Bishoy Matta
 4/7/21
 ## Executive Summary 
-Include your executive summary here...
+
 
 ## Python IDLE
 Python shell is a command tool that starts up the python interpreter. It runs the python instructions one at a time. It is useful in letting you test the codes and get familiar with them. The file editor is the completely blank editor that is better for writing and running full program. It allows you to run the whole program all at once.
@@ -14,11 +14,15 @@ A assignment statement places a value on a noun. An example of a assignment stat
 A function in python is a block of code that preforms some tasks and that can be called by a specific name that the programmer chooses. To make a function, you would have to use the "def" code. An example of a function is: def example(text). Also its useful to know thst you have to use "return" to get out of the function.
 ### Three data types:
 Three data types is 
-##### Graphics
+## Graphics
 
 ### Raster vs. Vector Graphics
+Raster images are images that are based on pixels, which is a dot with color information. Vector images are based on geometrical shapes, mathematical equations that result in a image or shape. An example of a vector shape is fonts. When your typing a word document, you can increase the font and it will stretch accordingly which makes it a vector geometrical shape. Raster is more appropriate to use in photoshop.
 ### Lossless vs. Lossy Compression
+Lossless compression refers to compression that does not remove data, but rearranges the data to be more efficient. Lossy compression removes some of the original data from the file. It matters for developers to pick the right one because you don't want to lose documents. Lossless is better for word documents while lossy is better for media files and use less data, but its lower quality.
+
 ### File Formats
+JPG is best for real photos, and it's a lossy compression. PNG is best for minimal color palette and its a lossless compression. GIF is best for minimal color palette. Its similar to PNG because they both are lossless compressions. JPG, PNG, and GIF are all similar because they all display a design or a photo.
 ### File Properties
 
 ## Conclusion
