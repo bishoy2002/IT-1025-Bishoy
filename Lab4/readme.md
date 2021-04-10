@@ -14,7 +14,7 @@ A assignment statement places a value on a noun. An example of a assignment stat
 A function in python is a block of code that preforms some tasks and that can be called by a specific name that the programmer chooses. To make a function, you would have to use the "def" code. An example of a function is: def example(text). Also its useful to know thst you have to use "return" to get out of the function.
 ### Three data types:
 Three data types is 
-###### Graphics
+##### Graphics
 
 ### Raster vs. Vector Graphics
 ### Lossless vs. Lossy Compression
