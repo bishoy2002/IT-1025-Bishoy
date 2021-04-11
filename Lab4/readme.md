@@ -2,7 +2,7 @@
 Bishoy Matta
 4/7/21
 ## Executive Summary 
-
+Durning this lab, I will be
 
 ## Python IDLE
 Python shell is a command tool that starts up the python interpreter. It runs the python instructions one at a time. It is useful in letting you test the codes and get familiar with them. The file editor is the completely blank editor that is better for writing and running full program. It allows you to run the whole program all at once.
@@ -24,7 +24,7 @@ Lossless compression refers to compression that does not remove data, but rearra
 ### File Formats
 JPG is best for real photos, and it's a lossy compression. PNG is best for minimal color palette and its a lossless compression. GIF is best for minimal color palette. Its similar to PNG because they both are lossless compressions. JPG, PNG, and GIF are all similar because they all display a design or a photo.
 ### File Properties
-
+My design is a simple logo with three layers. The three shapes that I used are, the square with cut corners, and two triangles. Under the logo it also says "connect". My idea is an social media platform where users can speak there mind without the fear of censorship. Internet and social media censorship has been a big issue over the past few years. The file is 
 ## Conclusion
 
 Include your professional conclusion here...
