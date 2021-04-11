@@ -2,7 +2,7 @@
 Bishoy Matta
 4/7/21
 ## Executive Summary 
-Durning this lab, I will be
+During this lab, I will be learning more about python and graphics. I will be learning the basic building blocks for using and running python. I will also be learning about different file formats and the differences an similarities associated with them. I will also learn how to use my operating system and use a variety of different commands. In addition, I will be learning about graphics and creating my logo using Vectr.
 
 ## Python IDLE
 Python shell is a command tool that starts up the python interpreter. It runs the python instructions one at a time. It is useful in letting you test the codes and get familiar with them. The file editor is the completely blank editor that is better for writing and running full program. It allows you to run the whole program all at once.
@@ -13,7 +13,7 @@ A assignment statement places a value on a noun. An example of a assignment stat
 ### Function:
 A function in python is a block of code that preforms some tasks and that can be called by a specific name that the programmer chooses. To make a function, you would have to use the "def" code. An example of a function is: def example(text). Also its useful to know thst you have to use "return" to get out of the function.
 ### Three data types:
-Three data types is 
+Three data types are, Integer, Floating-Point, and String Data. Integers are negative and positive whole numbers, for example -1,0,1,2. Floating-points are decimal numbers, for example -0.5, 0.0, 0.5. Finally string points are words, for example "hello world".
 ## Graphics
 
 ### Raster vs. Vector Graphics
@@ -24,7 +24,6 @@ Lossless compression refers to compression that does not remove data, but rearra
 ### File Formats
 JPG is best for real photos, and it's a lossy compression. PNG is best for minimal color palette and its a lossless compression. GIF is best for minimal color palette. Its similar to PNG because they both are lossless compressions. JPG, PNG, and GIF are all similar because they all display a design or a photo.
 ### File Properties
-My design is a simple logo with three layers. The three shapes that I used are, the square with cut corners, and two triangles. Under the logo it also says "connect". My idea is an social media platform where users can speak there mind without the fear of censorship. Internet and social media censorship has been a big issue over the past few years. The file is 
+My design is a simple logo with three layers. The three shapes that I used are, the square with cut corners, and two triangles. Under the logo it also says "connect". My idea is an social media platform where users can speak there mind without the fear of censorship. Internet and social media censorship has been a big issue over the past few years. The file is 334,546 bytes (336 KB on disk). It opens with google chrome which is the default. It will be more useful to open as a lossless files so I don't lose some quality for my logo.
 ## Conclusion
-
-Include your professional conclusion here...
+After completing this lab, I have a better understanding 
