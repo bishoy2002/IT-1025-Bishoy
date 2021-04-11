@@ -11,7 +11,7 @@ Variables are used to store data, they take up memory space according to the typ
 ### Assignment statement:
 A assignment statement places a value on a noun. An example of a assignment statement is X = 1000. It means that the value 1000 is being assigned to the variable, which in this example is X.
 ### Function:
-A function in python is a block of code that preforms some tasks and that can be called by a specific name that the programmer chooses. To make a function, you would have to use the "def" code. An example of a function is: def example(text). Also its useful to know thst you have to use "return" to get out of the function.
+A function in python is a block of code that preforms some tasks and that can be called by a specific name that the programmer chooses. To make a function, you would have to use the "def" code. An example of a function is: def example(text). Also its useful to know that you have to use "return" to get out of the function.
 ### Three data types:
 Three data types are, Integer, Floating-Point, and String Data. Integers are negative and positive whole numbers, for example -1,0,1,2. Floating-points are decimal numbers, for example -0.5, 0.0, 0.5. Finally string points are words, for example "hello world".
 ## Graphics
@@ -26,4 +26,5 @@ JPG is best for real photos, and it's a lossy compression. PNG is best for minim
 ### File Properties
 My design is a simple logo with three layers. The three shapes that I used are, the square with cut corners, and two triangles. Under the logo it also says "connect". My idea is an social media platform where users can speak there mind without the fear of censorship. Internet and social media censorship has been a big issue over the past few years. The file is 334,546 bytes (336 KB on disk). It opens with google chrome which is the default. It will be more useful to open as a lossless files so I don't lose some quality for my logo.
 ## Conclusion
-After completing this lab, I have a better understanding 
+After completing this lab, I have a better understanding of Operating Systems, Python IDLE, and graphics. For operating systems, I learned some of the basic commands for my operating systems. I also learned the building blocks for python and getting used to using it. I also be learned about different file types and which one to use for specific data.
+ 
