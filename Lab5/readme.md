@@ -2,7 +2,7 @@
 Bishoy Matta
 4/13/21
 ## Executive Summary 
-Include your executive summary here...
+During this lab, I will be introduced to lucidchart, and I will be creating a computer program that will be asking for a number and have it print big if the number is over 12, or small if the number given is under 12. I will also be learning about different data transmissions and and how they send and receive data. In addition, I will be learning about different network topologies. I will also be learning about cyber security and encryption.
 
 ## Lucidchart
 Even though I originally had trouble at first using and creating a Lucidchard, I had a good experience. In the beginning I was very confused on how to set up lucid, because its my first time using it. I learned how to use it pretty quick and it seems like a very helpful tool that I will possibly be using in future classes. I was able to create the flowchart after I learned how to use it. Overall, my experience using lucid was positive, and it will be useful and benifitial in the future.
@@ -24,9 +24,12 @@ The benefits of a switch over a hub, is a hub does not filter out any data or ha
 
 Unlike hubs and switches, the benifit of using a router is its able to read IP addresses. By a router reading IP addresses, it will be able to exchange data outside of their own network. In conclusion, hubs and switches are used to create networks, while routers are used to create them. 
 ### Network Topologies
-#### Single point of Failure
+A single point of failure is when the central hub or switch fails, then all computers on that central point would be affected. A topology that is affected by a single point of failure is the star topology. Also the bus topoplogy is also affected by a single point of failure. In a bus topology, all workstations are linked to a single backbone. The entire network will go down if the backbone fails.
+
 #### Infrastrucutre vs. Wireless Mesh
+Infrastructure topology uses a combination of wired and wireless devices. Wireless topology devices connect directly to each other without using a centralized device, such as a wifi or access point. I think that the wireless topology is better. The reason I think it's better is because with a wireless topology all the devices connect to each other without the need for a access point or router. This makes each device responsible for its own security. Also with a infrastructure topology, if the main router or access point fails, all the devices connected to it will also fail.
 ### Network Design
+
 ### NSA/CSS
 
 ## Cybersecurity and Encryption
