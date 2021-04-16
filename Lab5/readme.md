@@ -29,9 +29,9 @@ A single point of failure is when the central hub or switch fails, then all comp
 #### Infrastrucutre vs. Wireless Mesh
 Infrastructure topology uses a combination of wired and wireless devices. Wireless topology devices connect directly to each other without using a centralized device, such as a wifi or access point. I think that the wireless topology is better. The reason I think it's better is because with a wireless topology all the devices connect to each other without the need for a access point or router. This makes each device responsible for its own security. Also with a infrastructure topology, if the main router or access point fails, all the devices connected to it will also fail.
 ### Network Design
-
+In my design, 
 ### NSA/CSS
-
+The NSA plays a major role in cybersecurity giving the U.S a combat support agency a strategic advantage over adversaries. America relies on the NSA to collect and process foreign signal. The share these signals to U.S officials and war fighters. The NSA has a very talented team that decodes signals into usable intelligence. The NSA is also counted on protect sensitive U.S government communications and information systems from hostile adversaries.
 ## Cybersecurity and Encryption
 
 ### Information Systems Security
