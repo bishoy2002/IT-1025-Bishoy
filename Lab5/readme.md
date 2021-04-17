@@ -29,13 +29,14 @@ A single point of failure is when the central hub or switch fails, then all comp
 #### Infrastrucutre vs. Wireless Mesh
 Infrastructure topology uses a combination of wired and wireless devices. Wireless topology devices connect directly to each other without using a centralized device, such as a wifi or access point. I think that the wireless topology is better. The reason I think it's better is because with a wireless topology all the devices connect to each other without the need for a access point or router. This makes each device responsible for its own security. Also with a infrastructure topology, if the main router or access point fails, all the devices connected to it will also fail.
 ### Network Design
-In my design, 
+In my design, I have the router which is sendinding data to the wirless access point and the switch. The wireless access point is connected to the two computers through a wireless connection. The switch is connected to the printer through a wired connection.
 ### NSA/CSS
 The NSA plays a major role in cybersecurity giving the U.S a combat support agency a strategic advantage over adversaries. America relies on the NSA to collect and process foreign signal. The share these signals to U.S officials and war fighters. The NSA has a very talented team that decodes signals into usable intelligence. The NSA is also counted on protect sensitive U.S government communications and information systems from hostile adversaries.
 ## Cybersecurity and Encryption
 
-### Information Systems Security
-
+### Information Systems Security;
+a.  Each component of the security triad would heavily impact my job and my sensitive infromation. The components of a security include: confidentiality, integrity, and availabilty. Confidentiality is very important to restrict my private information to only people who are authorized to view it. Integrity is the assurance that any information being accessed has not been altered and represents what is intended. This is very important for my job because it assures that any documents or records involving my job are not being altered. Availabilty is information that is available and can be altered by someone who has authority to do so in an appropriate timeframe.
+b. 
 #### Security Triad
 #### Authentication
 #### ACL and RBAC
