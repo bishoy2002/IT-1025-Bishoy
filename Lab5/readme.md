@@ -39,19 +39,27 @@ The NSA plays a major role in cybersecurity giving the U.S a combat support agen
 #### Security Triad
 Each component of the security triad would heavily impact my job and my sensitive infromation. The components of a security include: confidentiality, integrity, and availabilty. Confidentiality is very important to restrict my private information to only people who are authorized to view it. Integrity is the assurance that any information being accessed has not been altered and represents what is intended. This is very important for my job because it assures that any documents or records involving my job are not being altered. Availabilty is information that is available and can be altered by someone who has authority to do so in an appropriate timeframe.
 #### Authentication
-There are many daily tasks that require multi-factor authentication. The first daily activity that requires multi-step authentication is signing in my bank account.
+There are many daily tasks that require multi-factor authentication. The first daily activity that requires multi-step authentication is signing in my bank account. When I sign in my bank account, I provide a password. This could be a multi-factor authentication if it requires me to verify my password through my email. Using my debit card at a grocery store also requires multi-factor authentication. When I swipe my card, I have to enter my pin number. The third daily activity that requires authentication is signing into my email. The authentication is the email and password. This could be a multi-factor authentication, if i'm required to verify my email through my phone number.
 #### ACL and RBAC
+ The ACL stands for access control unit. The advantage of using an ACL is the fact that it is very easy to understand and maintain. The disadvantage of an ACL is that each information resource is managed independently, therefore it would be very difficult for a security administrator to add or remove a user from a large set of information resources. The RBAC is an improved and more efficient method of access control. RBAC assigns users to roles, and then those roles are given access. This allows administrators to manage users and roles separately, simplifying administrators and, as a result, improving security. 
 #### Ciphertext, Public Key and Private Key
+Ciphertext- A message after its been encrypted using an encryption protocol or algorithm.
+Public key- The public key can be  used to encrypt the message, and can even be published online. 
+private key- The private key can only encrypt messages and is private to only you.
 #### Public Key Cryptography
-
+Public key cryptography is an encryption method that uses two-part keys. They use private and public keys when a message is send. We need public key cryptography to ensure that sensitive data and information can only be accessed to the recipient thats authorized to view it.
 ### Cryptography
+When I typed the phrase "cryptography is a growing field", and turned the wheel, it encrypted the message to "dszquphsbqiz jt b hspxjoh gifme". It encrypted the message by having every letter in the phrase the following letter. For example, the letter c got put as d, the letter r got put as s, the letter p got put as q, and so on.
 #### Encryption
+
 #### Frequency Fingerprint
+When I typed my message, the results were completely random. Frequency fingerprint messages can be encrypted and wok with different languages other than just English.
 #### Polyalphabetic Cipher
+A polyalphabetic cipher is a encryption method that uses multiple substitution alphabets. 
 #### Polyalphabetic Example
-
+An example for polyalphabetic cipher is when I typed my message in the polyalphabetic encrypter on khan academy. The word I encripted is "hello". My result was "pjxxd". The reason I got my result, was because polyalphabetic cipher encryption uses multiple substitution for the alphabet.
 #### Brute-Force
-
+Brute-force is simply the calculation of the total distance for every possible route and finds the shortest one. Bru
 ## Conclusion
 Include your professional conclusion here...
 
