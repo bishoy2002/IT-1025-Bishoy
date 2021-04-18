@@ -35,10 +35,11 @@ The NSA plays a major role in cybersecurity giving the U.S a combat support agen
 ## Cybersecurity and Encryption
 
 ### Information Systems Security;
-a.  Each component of the security triad would heavily impact my job and my sensitive infromation. The components of a security include: confidentiality, integrity, and availabilty. Confidentiality is very important to restrict my private information to only people who are authorized to view it. Integrity is the assurance that any information being accessed has not been altered and represents what is intended. This is very important for my job because it assures that any documents or records involving my job are not being altered. Availabilty is information that is available and can be altered by someone who has authority to do so in an appropriate timeframe.
-b. 
+
 #### Security Triad
+Each component of the security triad would heavily impact my job and my sensitive infromation. The components of a security include: confidentiality, integrity, and availabilty. Confidentiality is very important to restrict my private information to only people who are authorized to view it. Integrity is the assurance that any information being accessed has not been altered and represents what is intended. This is very important for my job because it assures that any documents or records involving my job are not being altered. Availabilty is information that is available and can be altered by someone who has authority to do so in an appropriate timeframe.
 #### Authentication
+There are many daily tasks that require multi-factor authentication. The first daily activity that requires multi-step authentication is signing in my bank account.
 #### ACL and RBAC
 #### Ciphertext, Public Key and Private Key
 #### Public Key Cryptography
