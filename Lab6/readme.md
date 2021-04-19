@@ -1,11 +1,15 @@
 ## Your Name / Date
-
+Bishoy Matta
+4/19/2021
 ## Executive Summary 
 Include your executive summary here...
 
 ## Internet Architecture
+
 ### Internet Protocol
+An IP address, short for Internet Protocol address, is a number that identifies network hardware that is connected to a network. An IP address enables a device to communicate with other devices over an IP-based network such as the internet. IPv4 only allows 4 billion unique addresses, which is not enogh for every device on earth to have its own address. IPv6 replaces IPv4 32-bit address with a 128-bit address. 
 #### IP Address
+
 #### ICANN
 
 ### TCP/IP
