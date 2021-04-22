@@ -11,7 +11,7 @@ IPv4 only allows 4 billion unique addresses, which is not enogh for every device
 #### IP Address
 An IP address, short for Internet Protocol address, is a number that identifies network hardware that is connected to a network. An IP address enables a device to communicate with other devices over an IP-based network such as the internet.
 #### ICANN
-
+The ICANN is a non-profit organization comprised of people from all over the world committed to keeping the internet secure and stable. The ICANN contributes to the global internet 
 ### TCP/IP
 #### Responsibility of TCP/IP
 #### Client-Server Model and TCP/IP
