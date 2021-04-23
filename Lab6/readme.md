@@ -17,11 +17,14 @@ The ICANN is a non-profit organization comprised of people from all over the wor
 #### Responsibility of TCP/IP
 The responsibility of TCP/IP is, it specifies how devices exchange data over the internet to one another.
 #### Client-Server Model and TCP/IP
+The client-server model applies to TCP/IP
 #### Layers
+Layers play a crucial role in changing the internet. With the stacking process, you can make changes to the software and application without having to change the entire software or spplication. Protocol stacks interacts with the levels above and below it, therefore making any changes in the process possible.
 #### Application Layer
-
+The application layer runs utility applications. DNS (domain name system), RIP (routing information protocol), and DHCP are examples of utility applications.
 ## Internet Security
 ### HTTP and Client-Server Model
+HTTP stands for hypertext transfer protocol. HTTP is the worlds most widely used protocol for viewing web pages on the internet.
 ### Protocols for Secure HTTP
 
 ## Securing your Web Browser
