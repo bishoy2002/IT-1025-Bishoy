@@ -15,6 +15,7 @@ The ICANN is a non-profit organization comprised of people from all over the wor
 ### TCP/IP
 
 #### Responsibility of TCP/IP
+The responsibility of TCP/IP is, it specifies how devices exchange data over the internet to one another.
 #### Client-Server Model and TCP/IP
 #### Layers
 #### Application Layer
