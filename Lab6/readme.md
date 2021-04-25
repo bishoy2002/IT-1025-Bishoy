@@ -34,8 +34,9 @@ Securing your browser is an essential part of internet security and data protect
 A risk that comes with using the internet is cross-Site Scripting vulnerability. Cross-site scripting in a vulnerability in a website that allows an attacker to take advantage of the trust relationship you have with that site. This vulverability can cause a serious data theft and cybercrime risk.
 ## Internet Programming
 ### World Wide Web Consortium
-Tim Berners-Lee is a computer scientist that is best known for inventing the World Wide Web. He created W3C as a was 
+Tim Berners-Lee is a computer scientist that is best known for inventing the World Wide Web. He created W3C as a way to grow a community, and be able to provide great internet service.
 ### HTML5 and CSS
+
 ### HTML and XML
 
 ## Components of a URL
