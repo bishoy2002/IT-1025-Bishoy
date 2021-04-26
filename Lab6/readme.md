@@ -42,8 +42,12 @@ There is a lot that goes into creating a web page, and each technology aspect pl
 scheme- HTTPS
 domain- www.amazon.com
 Top level domain- .edu
+
 parameters- no file path provided
+
 anchor- specific language on a page
+
 defult page- result of search
+
 ## Conclusion
 Include your conclusion here...
