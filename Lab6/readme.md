@@ -38,9 +38,12 @@ Tim Berners-Lee is a computer scientist that is best known for inventing the Wor
 ### HTML5 and CSS
 There is a lot that goes into creating a web page, and each technology aspect plays a key role. For creating my HTML web page, I practiced on the w3school website, then I created my webpage using TextEdit. After I was complete with an aspect of my webpage, such as changing the text color, I went to my files and opened the webpage using google chrome.   
 ### HTML and XML
+
 ## Components of a URL
 scheme- HTTPS
+
 domain- www.amazon.com
+
 Top level domain- .edu
 
 parameters- no file path provided
@@ -50,4 +53,4 @@ anchor- specific language on a page
 defult page- result of search
 
 ## Conclusion
-Include your conclusion here...
+After the completion on this lab, I have a better understanding of internet communications and the protocols that allow communication world wide. I have a better understanding of data and how crucial it is to secure your data. 
