@@ -36,7 +36,7 @@ A risk that comes with using the internet is cross-Site Scripting vulnerability.
 ### World Wide Web Consortium
 Tim Berners-Lee is a computer scientist that is best known for inventing the World Wide Web. He created W3C as a way to grow a community, and be able to provide great internet service and growth for world wide web.
 ### HTML5 and CSS
-There is a lot that goes into creating a web page, and each technology aspect plays a key role. For creating my HTML web page, I practiced on the w3school website, then I created my webpage using TextEdit. After I was complete with an aspect of my webpage, such as changing the text color, I went to my files and opened the webpage using google chrome. The idea and the approach I took was creating an open social media platform.  
+There is a lot that goes into creating a web page, and each technology aspect plays a key role. For creating my HTML web page, I practiced on the w3school website, then I created my webpage using TextEdit. After I was complete with an aspect of my webpage, such as changing the text color, I went to my files and opened the webpage using google chrome.   
 ### HTML and XML
 ## Components of a URL
 scheme- HTTPS
