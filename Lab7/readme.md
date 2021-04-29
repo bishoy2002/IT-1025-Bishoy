@@ -7,7 +7,7 @@ Include your executive summary here...
 ## File Compression
 
 ### Purpose of File Compression
-The purpose of file compression is a data compression method in which the size of a file is reduced to save disk space.
+The purpose of file compression is a data compression method in which the size of a file is reduced to save disk space. File compression is useful 
 ### Compression and File Size
 
 ## Object Oriented Programming (OOP) and the Shark Class
