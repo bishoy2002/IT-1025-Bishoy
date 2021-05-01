@@ -11,13 +11,16 @@ The purpose of file compression is a data compression method in which the size o
 ### Compression and File Size
 
 ## Object Oriented Programming (OOP) and the Shark Class
-### Attributes:
-### Methods:
+### Attributes: 
+The attribute is the data.
+### Methods: 
+The method is the function.
 ### Constructor:
 ### Class vs. Object
 
 ## Object Oriented Concepts
 ### Instantiated Objects
+
 ### Inheritance
 ### Encapsulation and Abstraction
 
