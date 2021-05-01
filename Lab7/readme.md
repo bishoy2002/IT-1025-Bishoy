@@ -18,7 +18,7 @@ The attribute is the name.
 The method is the function.
 The method is the swim(), and the be awesome().
 ### Constructor: 
-The constructor method is used to set data. It runs as soon as an object of a class is insrantitiated.
+The constructor method is used to set data. It runs as soon as an object of a class is instantiated.
 ### Class vs. Object
 The class is a blueprint created by programmers for an object. It defines the set of attributes that will caracterize the object. The object is the realized version of the class. To instiatiate an object refers to taking the templete or class and then create an object from the template.
 ## Object Oriented Concepts
@@ -31,5 +31,4 @@ Absraction and encapsulation are the overaching process that a programmer follow
 ## Unified Modeling Language (UML)
 
 ## Conclusion
-After this lab, I have an overall knowledge on files and folders. I practiced compressing files and when is it useful to compress files or folders. I also have a better knowledge of OOP. In addition, I created a a software.  
-
+After this lab, I have an overall knowledge on files and folders. I practiced compressing files and when is it useful to compress files or folders. I also have a better knowledge of OOP.
