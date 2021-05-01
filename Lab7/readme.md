@@ -2,7 +2,8 @@
 Bishoy Matta 
 4/27/21
 ## Executive Summary 
-Include your executive summary here...
+During this lab, I will be using files and folders and I will practice compressing files and getting an overall knowledge with the properties of files. I will also be learning the impact of compressing files and the reasons to compress a file. I will also learn about object oriented programming (OOP).  In addition to learning about OOP, I will be  creating and diagramming software.
+
 
 ## File Compression
 
@@ -24,10 +25,11 @@ The class is a blueprint created by programmers for an object. It defines the se
 ### Instantiated Objects
 Sammy= shark ("sammy") and steve = shark ("steve") instantiated objects of the shark class.
 ### Inheritance
-Inheritance related to OOP is the classes can have children which means one class can be created out of another class. The parent class is also known as base class while the child class is called derived class. In the shark class, for example, the parent is shark class and childern classes whill inherit all the attributes and behaviors of the shark class.
+Inheritance related to OOP is the classes can have children which means one class can be created out of another class. The parent class is also known as base class while the child class is called derived class. In the shark class, for example, the parent is shark class and childern classes whill inherit all the attributes and behaviors ofA the shark class.
 ### Encapsulation and Abstraction
 Absraction and encapsulation are the overaching process that a programmer follows to describe a real life process. An example in the shark class, abstraction is the process that programmers utilize to describe a object into its attributes and methods to create the shark class.
 ## Unified Modeling Language (UML)
 
 ## Conclusion
-Include your conclusion here...
+After this lab, I have an overall knowledge on files and folders. I practiced compressing files and when is it useful to compress files or folders. I also have a better knowledge of OOP. In addition, I created a a software.  
+
