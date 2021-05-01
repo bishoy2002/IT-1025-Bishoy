@@ -12,18 +12,21 @@ The purpose of file compression is a data compression method in which the size o
 Before I compressed the svg, it was 336 KB. After I compressed it, the result was 144 KB. If I were to compress the JPEJ file, the size will not differ because the file is already compressed.
 ## Object Oriented Programming (OOP) and the Shark Class
 ### Attributes: 
-The attribute is the data.
+The attribute is the name.
 ### Methods: 
 The method is the function.
-### Constructor:
+The method is the swim(), and the be awesome().
+### Constructor: 
+The constructor method is used to set data. It runs as soon as an object of a class is insrantitiated.
 ### Class vs. Object
-
+The class is a blueprint created by programmers for an object. It defines the set of attributes that will caracterize the object. The object is the realized version of the class. To instiatiate an object refers to taking the templete or class and then create an object from the template.
 ## Object Oriented Concepts
 ### Instantiated Objects
-
+Sammy= shark ("sammy") and steve = shark ("steve") instantiated objects of the shark class.
 ### Inheritance
+Inheritance related to OOP is the classes can have children which means one class can be created out of another class. The parent class is also known as base class while the child class is called derived class. In the shark class, for example, the parent is shark class and childern classes whill inherit all the attributes and behaviors of the shark class.
 ### Encapsulation and Abstraction
-
+Absraction and encapsulation are the overaching process that a programmer follows to describe a real life process. An example in the shark class, abstraction is the process that programmers utilize to describe a object into its attributes and methods to create the shark class.
 ## Unified Modeling Language (UML)
 
 ## Conclusion
