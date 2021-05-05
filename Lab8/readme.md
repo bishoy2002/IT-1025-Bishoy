@@ -5,7 +5,7 @@ Include your executive summary here...
 
 ## Data, Information and Knowledge
 ### Compare and contrast data, information and knowledge
-
+Data is defined as raw, unanalyzed, and unorganized material used to derive information after analysis. The set of data that has already been processed, analyzed, and structured in a meaningful way to become useful is referred to as information. The familiarity and awareness of a person, place, or event is referred to as knowledge.
 ### Relational Data
 #### Primary Key:
 #### Relationship between customers and orders:
