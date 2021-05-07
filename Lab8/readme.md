@@ -21,7 +21,7 @@ The caracteristics of big data are volume, variety, volocity, and variability. V
 Business processes, application logs, network, social media sites, and mobile devices have increased need for big data.
 ## Structured Query Language (SQL) 
 ### RDBMS and SQL
-
+Relational Database Management System (RDBMS) is an acronym that stands for Relational Database Management System. RDBMS is the basis for SQL, also for all modern data bases.
 ### Relationship, Primary and Foreign Keys
 
 ## SQL Injections
