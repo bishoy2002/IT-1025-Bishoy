@@ -1,5 +1,6 @@
 ## Your Name / Date
-
+Bishoy Matta
+5/5/21
 ## Executive Summary 
 Include your executive summary here...
 
@@ -8,16 +9,19 @@ Include your executive summary here...
 Data is defined as raw, unanalyzed, and unorganized material used to derive information after analysis. The set of data that has already been processed, analyzed, and structured in a meaningful way to become useful is referred to as information. The familiarity and awareness of a person, place, or event is referred to as knowledge.
 ### Relational Data
 #### Primary Key:
+The primary key of customers is the foreign key of order.
 #### Relationship between customers and orders:
 #### Foreign key of orders table:
 ### Field Data Types
 
 ### Big Data
 #### Four "V"s of Big Data
+The caracteristics of big data are volume, variety, volocity, and variability. Volume is the size of the data, variety is the sources of data, velocity is the speed of the data, and variability is inconsistency of the data.
 #### Technology Driving the need for Big Data
-
+Business processes, application logs, network, social media sites, and mobile devices have increased need for big data.
 ## Structured Query Language (SQL) 
 ### RDBMS and SQL
+
 ### Relationship, Primary and Foreign Keys
 
 ## SQL Injections
