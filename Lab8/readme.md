@@ -2,7 +2,7 @@
 Bishoy Matta
 5/5/21
 ## Executive Summary 
-Include your executive summary here...
+Durning this lab, I will be Describing various database models and practice SQL queries on a database (structured query language. I will also be identifying  key ethical and legal implications of information systems.
 
 ## Data, Information and Knowledge
 ### Compare and contrast data, information and knowledge
@@ -23,13 +23,17 @@ Business processes, application logs, network, social media sites, and mobile de
 ### RDBMS and SQL
 Relational Database Management System (RDBMS) is an acronym that stands for Relational Database Management System. RDBMS is the basis for SQL, also for all modern data bases.
 ### Relationship, Primary and Foreign Keys
-
+The foreign key is the primary key in another table. A relationship is formed by matching data in key columns, which are typically columns (or fields) with the same name in both tables.
 ## SQL Injections
-
+SQL Injection vulnerabilities can be exploited by attackers to circumvent application security measures.
 ## Ethical and Legal Implications
-### Code of Ethics
-### Intellectual Property
-### Information Collection
 
+### Code of Ethics
+The Code identifies the fundamental values that underpin the mission of social work..The Code is intended to inspire and guide all computing professionals in their ethical behavior.
+### Intellectual Property
+An Acceptable Use Policy is a contract entered into by two or more members of a computer network community, while the code of ethics is the values.
+### Information Collection
+The website of my choice is the curreptocurrency bitcoin website. The website collects information such as "log data".
+https://bitcoin.org/en/
 ## Conclusion
-Include your conclusion here...
+After this lab, I have a good understanding of various database models and I also practiced using SQL queries on a database. In addition, I also have a better understanding of legal and/or ethical implications regarding an information system. 
