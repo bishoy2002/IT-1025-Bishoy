@@ -11,9 +11,10 @@ Data is defined as raw, unanalyzed, and unorganized material used to derive info
 #### Primary Key:
 The primary key of customers is the foreign key of order.
 #### Relationship between customers and orders:
-#### Foreign key of orders table:
+#### Foreign key of orders table: 
+The foreign key in the orders table would be the customer's ID. 
 ### Field Data Types
-
+The data type informs the database about the types of functions that can be performed on the data. Also it's important to define data to use a proper storaging amount.
 ### Big Data
 #### Four "V"s of Big Data
 The caracteristics of big data are volume, variety, volocity, and variability. Volume is the size of the data, variety is the sources of data, velocity is the speed of the data, and variability is inconsistency of the data.
@@ -23,7 +24,7 @@ Business processes, application logs, network, social media sites, and mobile de
 ### RDBMS and SQL
 Relational Database Management System (RDBMS) is an acronym that stands for Relational Database Management System. RDBMS is the basis for SQL, also for all modern data bases.
 ### Relationship, Primary and Foreign Keys
-The foreign key is the primary key in another table. A relationship is formed by matching data in key columns, which are typically columns (or fields) with the same name in both tables.
+When a child table &quot;orders table&quot; defines a Foreign Key column that references the Primary Key column of its parent table &quot;employees table&quot;, the relationship between them is executed. For example, the employeeID is a foreign key in the orders table that connects to the primary key employeeID in the employees table.
 ## SQL Injections
 SQL Injection vulnerabilities can be exploited by attackers to circumvent application security measures.
 ## Ethical and Legal Implications
