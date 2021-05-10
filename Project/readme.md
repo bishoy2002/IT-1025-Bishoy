@@ -9,7 +9,7 @@ During the final assignment, I will be researching the benifits of using a VPN. 
 
 ### Part Part 1: Project Intent and Plan
 
-Describe the process you will take to become co-op ready (include dates of seminars you will plan if you elect Option 1 OR, a brief description of the project you plan to implement (programming, research etc.)
+I will be doing a research paper on benifits of using a virtual privte network. I will also research doxing and swatting incidents and the dangers of rel life situation caused by cyber crime.
 
 ### Project Part 2:
 
