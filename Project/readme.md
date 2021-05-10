@@ -5,7 +5,7 @@ Bishoy Matta
 
 ### Executive Summary
 
-Include your executive summary
+During the final assignment, I will be researching the benifits of using a VPN. I will also be researching and learning about methods to avoid doxing attacks.
 
 ### Part Part 1: Project Intent and Plan
 
@@ -19,5 +19,10 @@ See Blackboard or OneNote (depending on your class) for details
 
 ### Conclusion
 
-Include your conclusion
+After this final assignment, I researched VPN and I have an overall better knowledge on how a VPN works and the benifits of using a vpn. I also have a better understanding of doxing attacks and the effects of doxing.
+
+CITATIONS:
+https://www.usnews.com/360-reviews/vpn/what-is-a-vpn
+https://us.norton.com/internetsecurity-privacy-what-is-doxing.html
+https://www.purevpn.com/blog/what-is-doxxing-scty/
 
